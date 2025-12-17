@@ -1,4 +1,5 @@
 # Oregon Trail RL (Q-Learning)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2a0a63d6-f4fc-44d9-91de-d6dd85c70cf2" />
 
 A simplified, reinforcement-learning–friendly recreation of **Oregon Trail**, built to experiment with strategy discovery using a **tabular Q-learning** agent. The environment is “Gym-ish” (reset/step), supports different location types (trail, rivers, forts, landmarks), and includes randomized Oregon Trail–style events (e.g., sickness, breakdowns) to keep the problem stochastic and challenging.
 
