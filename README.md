@@ -58,7 +58,7 @@ Because Oregon Trail involves delayed rewards, uncertainty, and sequential decis
 
 ### Analysis and Reporting
 
-- **`Q_Learning.py`** (optional)  
+- **`Q_Learning.py`** 
   Aggregates logs and produces summaries such as:
   - actions taken by terrain and location
   - average number of survivors
